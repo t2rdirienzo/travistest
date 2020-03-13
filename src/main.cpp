@@ -5,7 +5,7 @@
 int main(int argc,char** argv){
 
 
-	std::cout <<  "CIAO MONDO" <<std::endl;
+	std::cout <<  "CIAO MONDO2" <<std::endl;
 
 
 	return 0;
