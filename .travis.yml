@@ -29,7 +29,7 @@ before_script:
   - cmake ..
 script:
   - make
-  - build/testt
+  - ./build/testt
 
 matrix:
   exclude:
