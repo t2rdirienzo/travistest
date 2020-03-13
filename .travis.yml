@@ -3,7 +3,7 @@ language: c++
 dist: bionic
 
 services:
-	- docker
+  - docker
   
 os:
   - linux
