@@ -20,7 +20,6 @@ before_script:
   - cmake ..
 script:
   - make
-  - test/run-tests
 
 matrix:
   exclude:
