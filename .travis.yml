@@ -1,4 +1,10 @@
+sudo: required
 language: c++
+dist: bionic
+
+services:
+	- docker
+  
 os:
   - linux
 compiler:
