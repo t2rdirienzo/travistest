@@ -25,6 +25,7 @@ before_script:
   - cmake ..
 script:
   - make
+  - build/testt
 
 matrix:
   exclude:
